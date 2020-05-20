@@ -1,0 +1,2 @@
+# MindWalk
+Student wellbeing app
